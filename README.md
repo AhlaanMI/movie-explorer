@@ -104,9 +104,12 @@ npm start
 ```
 Visit: http://localhost:3000
 
+
 🔗 Live Demo
+
 Deployed on Vercel
 🌐 Live App Link - https://movie-explorer-rust.vercel.app/
+
 
 🎯 Future Enhancements
 ✅ User Authentication with backend service
