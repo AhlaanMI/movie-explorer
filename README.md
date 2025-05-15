@@ -56,6 +56,7 @@ Movie Explorer is a responsive, user-friendly React-based web application that a
 
 ## 📁 Folder Structure
 
+```
 movie-explorer/
 ├── public/
 ├── src/
@@ -75,11 +76,7 @@ movie-explorer/
 ├── package.json
 └── README.md
 
-yaml
-Copy
-Edit
-
-
+```
 ---
 
 ## 🚀 Setup Instructions
@@ -146,6 +143,7 @@ git push origin feature-name
 # 5. Submit a Pull Request
 ```
 🙏 Acknowledgments
+
 TMDb API
 
 Material-UI for elegant UI components
